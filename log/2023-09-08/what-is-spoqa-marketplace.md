@@ -1,7 +1,10 @@
 # 스포카 마켓플레이스
 
 Context: https://twitter.com/disjukr/status/1699730136864883168 \
-Related: [모두 함께 제품 시핑(Shipping)하기 - 강효준](https://www.slideshare.net/kanghyojun/shipping-208789622)
+Related:
+- [모두 함께 제품 시핑(Shipping)하기 - 강효준](https://www.slideshare.net/kanghyojun/shipping-208789622)
+- [From Souq to Agile Marketplace: 5 tips](http://www.agileadventures.net/index.php/2015/11/06/from-souk-to-agile-marketplace-5-tips/)
+- [It’s all about money! Is it really? Agile value calculation in 5 simple steps](http://www.agileadventures.net/index.php/2016/01/03/its-all-about-the-money/)
 
 ---
 
