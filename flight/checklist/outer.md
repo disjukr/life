@@ -6,6 +6,10 @@
 - 커버를 벗겨서 조종석 의자 옆 주머니에 넣어두면 된다
 - 피토 튜브에 뭐 껴있다고 입으로 훅 불면 속도계 고장날 수 있으니 주의
 
+> [!CAUTION]
+> 피토 튜브 덮개가 씌워진 상태에서 비행하면 속도를 알 수가 없기 때문에 실속으로
+> 추락할 위험이 있다.
+
 | Before                              | After                               |
 | ----------------------------------- | ----------------------------------- |
 | ![20240824_142022][20240824_142022] | ![20240824_142139][20240824_142139] |
@@ -13,7 +17,7 @@
 [20240824_142022]: https://github.com/user-attachments/assets/40d50ba7-b4f5-4f64-ac4c-325b23858a30
 [20240824_142139]: https://github.com/user-attachments/assets/189a5477-bce6-41a9-b083-a4b5f0d708cc
 
-## Master switch Off / Magneto A, B Off
+## Master switch **Off** / Magneto A, B **Off**
 
 - 이거 안하면 엔진오일, 프로펠러 체크하다가 시동 걸려서 사망할 수 있음
 
@@ -21,7 +25,7 @@
 
 [20240824_142347]: https://github.com/user-attachments/assets/15ba8cf0-d904-4b44-a435-203ae68ccf31
 
-## Fuel, Coolant, Oil Quantity CHK
+## Fuel, Coolant, Oil quantity Check
 
 ### Fuel
 
@@ -65,7 +69,8 @@
   돌린다
 
 > [!CAUTION]
-> 마스터 스위치와, 엔진 양쪽 점화 플러그가 꺼져 있어야 한다. (Magneto A, B Off)\
+> 마스터 스위치와, 엔진 양쪽 점화 플러그가 꺼져 있어야 한다. (Master switch Off
+> / Magneto A, B Off)\
 > 안 꺼진 상태에서 돌리면 시동이 걸려서 프로펠러에 크게 다칠 수 있다.
 
 | Fig. A                              | Fig. B                              |
@@ -75,11 +80,13 @@
 [20240824_143742]: https://github.com/user-attachments/assets/e1b1f129-5c33-4939-a9a3-f7d5bd8e7fc9
 [20240824_143733]: https://github.com/user-attachments/assets/aa927fb4-561b-49e0-8dbe-d039563ad20e
 
-## Fuel Drain (Water elimination)
+## Fuel drain (Water elimination)
 
-## Propeller CHK
+- 슬라임 같은거 보이는지 체크
 
-### Spinner/Blade
+## Propeller Check
+
+### Spinner / Blade
 
 - 나사 잘 조여져 있는지
 - 금 간 부분은 없는지
@@ -91,27 +98,23 @@
 - 금 간 부분 없는지
 - 안전핀 잘 꽂혀있는지
 - 타이어 압력 손으로 두드려서 체크
+- 브레이크 오일이 새거나 케이블이 끊어졌다거나 하지 않은지
 
 ### Nose gear
 
 앞에 있는 바퀴가 노즈기어임. 양 옆 바퀴와 마찬가지로 확인
 
-### Break oil leak & bolt nut
-
-- 브레이크 케이블 멀쩡한지
-- 오일 안 새는지
-
-## Light&Flap
+## Light & Flap
 
 ### Master ON
 
-### Strobe/Navi./Landing Lights CHK
+### Strobe / Navi. / Landing Lights CHK
 
 ### Flap Full Down CHK
 
 ### Flap UP
 
-### All lights OFF/ Master OFF
+### All lights OFF / Master OFF
 
 ## Flight Control
 
