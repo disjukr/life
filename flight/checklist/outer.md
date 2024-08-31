@@ -12,7 +12,7 @@
 [20240824_142022]: https://github.com/user-attachments/assets/40d50ba7-b4f5-4f64-ac4c-325b23858a30
 [20240824_142139]: https://github.com/user-attachments/assets/189a5477-bce6-41a9-b083-a4b5f0d708cc
 
-## Magneto A+B Off / Master switch Off
+## Master switch Off / Magneto A, B Off
 
 - 이거 안하면 프로펠러 체크하다가 시동 걸려서 사망할 수 있음
 
