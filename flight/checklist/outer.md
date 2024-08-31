@@ -2,6 +2,7 @@
 
 ## Pitot tube removal
 
+- 날개 아래를 보면 있음
 - 뭐 껴있다고 입으로 훅 불면 속도계 고장날 수 있으니 주의
 
 | Before                              | After                               |
@@ -14,6 +15,10 @@
 ## Magneto A+B Off / Master switch Off
 
 - 이거 안하면 프로펠러 체크하다가 시동 걸려서 사망할 수 있음
+
+![20240824_142347][20240824_142347]
+
+[20240824_142347]: https://github.com/user-attachments/assets/15ba8cf0-d904-4b44-a435-203ae68ccf31
 
 ## Fuel, Coolant, Oil Quantity CHK
 
