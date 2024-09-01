@@ -1,4 +1,4 @@
-# 외부점검
+# 외부점검 - Skyleader 500 KP5A
 
 ## Pitot tube cover removal
 
@@ -84,6 +84,10 @@
 
 - 슬라임 같은거 보이는지 체크
 
+![20240824_144140][20240824_144140]
+
+[20240824_144140]: https://github.com/user-attachments/assets/2b287ef0-c898-4396-9fb7-d33607b684ae
+
 ## Propeller Check
 
 ### Spinner / Blade
@@ -98,6 +102,7 @@
 - 금 간 부분 없는지
 - 안전핀 잘 꽂혀있는지
 - 타이어 압력 손으로 두드려서 체크
+- 쇽업쇼바 상태 확인
 - 브레이크 오일이 새거나 케이블이 끊어졌다거나 하지 않은지
 
 ### Nose gear
