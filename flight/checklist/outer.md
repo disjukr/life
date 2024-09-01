@@ -88,6 +88,13 @@
 
 [20240824_144140]: https://github.com/user-attachments/assets/2b287ef0-c898-4396-9fb7-d33607b684ae
 
+| Fig. A                              | Fig. B                              |
+| ----------------------------------- | ----------------------------------- |
+| ![20240824_144400][20240824_144400] | ![20240824_144234][20240824_144234] |
+
+[20240824_144400]: https://github.com/user-attachments/assets/ab6b57ac-92c7-4946-83a3-d99a87d27278
+[20240824_144234]: https://github.com/user-attachments/assets/9327b55d-a954-4157-815e-cd9d68eab12e
+
 ## Propeller Check
 
 ### Spinner / Blade
