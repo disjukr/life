@@ -40,7 +40,7 @@ HTML/CSS/JavaScript를 이용해서 웹 그림판 등을 개발했습니다.
   company: "프렉스코리아",
   duty: "Frontend Engineer",
   start: "2024.02",
-  end: "현재",
+  end: "2026.03",
 )[
 코인거래소 제품 개발, 거래소 차트/웹소켓 관련 엔지니어링, 웹뷰 브릿지 등 개발
 ]
